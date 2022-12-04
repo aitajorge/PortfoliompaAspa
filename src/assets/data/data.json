@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Aita",
+  "backImage": "http://",
+  "image": "http://",
+  "position": "psicoanalista",
+
+  "ubication": "Buenos Aires (Argentina)",
+  "about": "Psicoanalista, autor, investigador de matemas (profesor de Historia), desarrollador web",
+
+"acerca": [{ 
+  "about": "Psicoanalista, autor, investigador de matemas (profesor de Historia), desarrollador web"
+  }],
+  "education": [{
+    "school": "UBA",
+    "title": "Psicología",
+    "img": "http://",
+    "career": "Licenciatura"
+  },
+  {
+    "school": "IFSD",
+    "title": "Historia",
+    "img": "http://",
+    "career": "Profesorado"
+  }
+]
+}
